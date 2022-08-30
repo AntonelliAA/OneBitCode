@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(.././images/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container1 {
+  color: white;
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 450px;
+  height: auto;
+}
+
+.logoLP {
+  width: 450px;
+}
+
+/*# sourceMappingURL=style.css.map */
